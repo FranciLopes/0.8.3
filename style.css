@@ -1,0 +1,48 @@
+div {
+    display: flex;
+    gap: 10px;
+    margin-right: 1150px;
+    width: 200px;
+    
+ 
+}
+
+div span {
+    right: 1px;
+    top: 1px;
+    border-radius: 1px;
+    background-color: #fff;
+    color: black;
+    padding: 0px;
+}
+
+html{
+    color: white;
+}
+
+button{
+    width: 30px;
+    height: 30px;
+    border-radius: 50px;
+    border: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 24px;
+}
+
+body {
+    background-color: rgb(58, 56, 56);
+}
+
+.sino{
+    position: relative;
+}
+
+.notificacao{
+    position: absolute; 
+    font-size: 8px;
+    border-radius: 50px;
+    background: red;
+
+}
